@@ -283,7 +283,7 @@ int personas;
         personas = SCN.nextInt();
       double pagoCena = impCena / personas;
         System.out.printf("Pago por persona : %.2f%n", pagoCena);
-      
+        System.out.println("hola mundo");
     }
 
 }
